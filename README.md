@@ -1,5 +1,6 @@
 ## Gajendra-I
-### Features of Gajendra-I CPU1. Supports 16 bytes of memory(ROM)
+### Features of Gajendra-I CPU
+1. Supports 16 bytes of memory(ROM)
 2. Recommended 8 locations of program space and 8 locations of data space.
 3. CPU has an 8 bit bus which carries both instructions and data.
 4. 8 bit ALU for arithmetic operations
