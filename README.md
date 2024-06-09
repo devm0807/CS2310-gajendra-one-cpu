@@ -1,4 +1,5 @@
 ## Gajendra-I
+An 8-bit CPU simulated in CircuitVerse with a 16-bit control logic to decode and interpret the instructions and operands. The control logic has been implemented via a software controller and also via a Finite State Machine.
 ### Features of Gajendra-I CPU
 1. Supports 16 bytes of memory(ROM)
 2. Recommended 8 locations of program space and 8 locations of data space.
